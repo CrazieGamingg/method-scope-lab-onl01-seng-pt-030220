@@ -1,6 +1,6 @@
 
 def rescue_princess_peach
-  phrase = ""
+  phrase = "It's-a me, Mario!"
   puts "Hooray! Mario has rescued Princess Peach."
 end
 
